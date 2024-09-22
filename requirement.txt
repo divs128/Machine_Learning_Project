@@ -1,0 +1,29 @@
+# Transformers library for NLP models and tokenizers
+transformers==4.21.3
+
+# Hugging Face datasets library for loading and processing datasets
+datasets==2.5.1
+
+# Scikit-learn for data processing (train-test split)
+scikit-learn==1.1.2
+
+# FastAPI for building APIs
+fastapi==0.85.0
+
+# Uvicorn server for running FastAPI
+uvicorn==0.18.2
+
+# Pandas for handling CSVs and DataFrames
+pandas==1.4.3
+
+# PyTorch (backend for training models)
+torch==1.12.1
+
+# Tokenizers for handling BERT-like tokenization
+tokenizers==0.13.2
+
+# PyTest for unit testing
+pytest==7.1.2
+
+# For API Testing
+httpx==0.23.0
