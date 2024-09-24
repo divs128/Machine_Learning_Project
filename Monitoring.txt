@@ -1,0 +1,9 @@
+Task 7: Monitoring and Updates
+Monitoring: we can monitor this solution by tracking key metrics such as:
+
+Latency and throughput: we can Use monitoring tools like Prometheus and Grafana to visualize response times and throughput.
+Model accuracy: Periodically retrain and test the model on new data to ensure accuracy.
+Updates:
+
+Retrain the model when new data is available or when performance on key metrics degrades.
+we can Monitor API usage and respond to performance or scalability issues.
